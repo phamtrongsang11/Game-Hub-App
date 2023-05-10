@@ -8,7 +8,7 @@ A website that offers clients detailed information about video games, such as th
 <img src="https://github.com/phamtrongsang11/game-hub/assets/101312630/855fc604-fbfd-4cb0-9dc3-e08a4908c520"  width="80%" height="80%">
 
 ## Geting start
-To run the app, simply run:
+To run the app, simply do:
 - clone this project to your local machine
 - yarn install && npm run dev
 
