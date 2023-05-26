@@ -1,4 +1,4 @@
-# game-hub
+# Game-Hub
 
 A website that offers clients detailed information about video games, such as the game's title, image, genres, platform, trailer.... The website was created using React + TypeScript and RAWG API was used for the backend . It has several feature like:
 - Providing ability to search for video games by name, genre, and platform.
