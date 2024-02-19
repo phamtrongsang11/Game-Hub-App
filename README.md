@@ -13,4 +13,4 @@ To run the app, simply do:
 - yarn install && npm run dev
 
 ## Demo (You can access demo by bellow link)
-https://main--gilded-naiad-072638.netlify.app/
+https://game-hubx.netlify.app/
